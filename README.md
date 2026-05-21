@@ -409,6 +409,20 @@ python evaluate.py
    <img width="2866" height="1236" alt="image_2026-05-19_22-31-40 (3)" src="https://github.com/user-attachments/assets/cac52b3c-c7b5-4bf8-b453-7f6c5b78283a" />
 
 
+**Грфики**  
+
+<img width="1218" height="433" alt="image" src="https://github.com/user-attachments/assets/6d8d6df8-36f6-4468-84fb-0b2fb1663064" />
+
+<img width="1076" height="537" alt="image" src="https://github.com/user-attachments/assets/afd4ff5e-52ba-45f8-b870-ce689afea86f" />
+
+<img width="1077" height="537" alt="image" src="https://github.com/user-attachments/assets/c03941c8-82db-42d7-a572-116d1aa496f6" />
+
+<img width="1075" height="533" alt="image" src="https://github.com/user-attachments/assets/ad22c2b4-cb13-4ea4-8a22-4f7fc1c57f9d" />
+
+<img width="752" height="537" alt="image" src="https://github.com/user-attachments/assets/4d495105-e504-4b2d-be0f-445eddb1ddec" />
+
+
+
 ## Выводы
 
 В результате работы был создан прототип мультимодального помощника, который по фотографии холодильника распознаёт продукты и предлагает рецепты. Проект демонстрирует практическое применение связки VLM + LLM: первая модель извлекает информацию из изображения, а вторая преобразует её в полезный текстовый ответ.
